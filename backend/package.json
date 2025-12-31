@@ -40,7 +40,7 @@
     "axios": "~0.28.0",
     "bitcoinjs-lib": "6.0.2",
     "crypto-js": "^4.2.0",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "maxmind": "^4.3.6",
     "mysql2": "3.9.3",
     "node-worker-threads-pool": "^1.5.1",
